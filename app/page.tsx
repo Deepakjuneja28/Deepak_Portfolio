@@ -4,7 +4,7 @@ import { Hero } from "@/components/Hero";
 import { Portfolio } from "@/components/Portfolio";
 import { Services } from "@/components/Services";
 import { Stack } from "@/components/Stack";
-import Image from "next/image";
+// import Image from "next/image";
 
 export default function Home() {
   return (
