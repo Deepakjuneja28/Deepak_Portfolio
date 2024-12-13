@@ -7,7 +7,7 @@ export const Contact = () => {
   return (
     <section
       id="contact"
-      className="overflow-x-clip py-16 sm:py-24 lg:py-32 text-white max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8"
+      className="overflow-x-clip py-16 sm:py-24 lg:py-32 text-white max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8 contact"
     >
       <motion.div
         initial={{ opacity: 0, y: 20 }}

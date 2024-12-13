@@ -103,7 +103,7 @@ const stackItems = [
 
 export const Stack = () => {
   return (
-    <section className="py-16 glass">
+    <section className="py-16 glass stack">
       <div className="max-w-[1200px] mx-auto px-4 text-center ">
         <h2 className="text-5xl text-gray-200 font-bold mb-4">My Stack</h2>
 
